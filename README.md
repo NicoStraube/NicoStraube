@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Nico, a 17 year old computer science enthusiastic student from Germany. 👋
+
+<hr>
+
+Currently I'm attending a vocational high school. My biggest interests are computer science and sports.
+
+Here you can find my projects for school (mostly in Pascal) and my private ones (almost exclusively ![Java](/images/java.png) or ![Kotlin](/images/kotlin.png)).
+
+You can reach me by email at contact@nicostraube.de.
 
 <!--
 **NicoStraube/NicoStraube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
