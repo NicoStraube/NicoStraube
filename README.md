@@ -6,6 +6,8 @@ Currently I'm attending a vocational high school. My biggest interests are compu
 
 Here you can find my projects for school (mostly in Pascal) and my other ones (almost exclusively Java or Kotlin).
 
+<br>
+
 You can reach me by email at contact@nicostraube.de.
 
 <!--
