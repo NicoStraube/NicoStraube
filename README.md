@@ -4,7 +4,7 @@
 
 Currently I'm attending a vocational high school. My biggest interests are computer science and sports.
 
-Here you can find my projects for school (mostly in Pascal) and my other ones (almost exclusively Java or Kotlin).
+Here you can find my projects for school and my private/official ones.
 
 <br>
 
