@@ -2,9 +2,7 @@
 
 <hr>
 
-Currently I'm attending a vocational high school. My biggest interests are computer science and sports.
-
-Here you can find my projects for school and my official ones.
+Currently I'm attending a vocational high school. My main interests are computer science and sports.
 
 <br>
 
