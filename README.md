@@ -2,7 +2,7 @@
 
 <hr>
 
-Currently I'm attending a vocational high school. My main interests are computer science and sports.
+<!-- Currently I'm attending a vocational high school. My main interests are computer science and sports. -->
 
 <br>
 
