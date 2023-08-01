@@ -11,5 +11,5 @@
 <br>
 
 <div>
-  <p>You can reach me by <a href="mailto://contact@nico-straube.de">mail</a> or Discord via Nico St. | StringArray#1248</p>
+  <p>You can reach me by <a href="mailto://contact@nico-straube.de">mail</a> or Discord via niggo.sbe</p>
 </div>
