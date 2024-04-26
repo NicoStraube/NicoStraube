@@ -1,5 +1,5 @@
 <div align=center>
-  <h3>Hi there, I'm Nico, a computer science enthusiastic trainee at @SAP from Germany. 👋</h3>
+  <h3>Hi there, I'm Nico, a computer science enthusiastic trainee at @SAP SE from Germany. 👋</h3>
 </div>
   
 <hr>
@@ -11,5 +11,5 @@
 <br>
 
 <div>
-  <p>You can reach me by <a href="mailto://contact@nico-straube.de">mail</a> or Discord via niggo.sbe</p>
+  <p>You can reach me @ Discord via niggo.sbe</p>
 </div>
