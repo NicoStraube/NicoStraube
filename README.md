@@ -1,5 +1,5 @@
 <div align=center>
-  <h3>Hi there, I'm Nico, a computer science enthusiastic trainee at @SAP SE from Germany. 👋</h3>
+  <h3>Hi there, I'm Nico, a computer science enthusiastic IT specialist for application development, with a focus on cloud/infrastructure and backend from Germany. 👋</h3>
 </div>
   
 <hr>
